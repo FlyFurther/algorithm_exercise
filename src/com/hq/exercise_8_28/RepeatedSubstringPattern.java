@@ -1,15 +1,5 @@
 package com.hq.exercise_8_28;
 
-import jdk.internal.dynalink.linker.LinkerServices;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-import java.util.stream.Collectors;
-
 /**
  * Created by hq on 17/8/28.
  */

@@ -1,11 +1,6 @@
 package com.hq.exercise_8_30;
 
-import apple.laf.JRSUIUtils;
-
-import javax.sound.midi.Sequence;
-import java.util.ArrayDeque;
 import java.util.Objects;
-import java.util.Queue;
 import java.util.Stack;
 
 /**
